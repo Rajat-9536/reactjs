@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/Rajat-9536/reactjs/issues"
   },
-  "homepage": "https://github.com/Rajat-9536/reactjs#readme"
+  "homepage": "https://github.com/Rajat-9536/reactjs#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
 }
