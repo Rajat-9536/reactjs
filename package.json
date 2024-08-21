@@ -1,0 +1,23 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "this is namaste-react",
+  "main": "index.js",
+  "scripts": {
+    "test": "dev run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rajat-9536/reactjs.git"
+  },
+  "keywords": [
+    "reactjs",
+    "rajatsharma"
+  ],
+  "author": "rajat sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rajat-9536/reactjs/issues"
+  },
+  "homepage": "https://github.com/Rajat-9536/reactjs#readme"
+}
